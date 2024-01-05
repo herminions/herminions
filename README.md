@@ -24,8 +24,8 @@ I'm starting my studies to acquire technical and practical skills that will help
 
 ### Plan to learn
 
-<p align="left"><img height="40" src="https://github.com/jmnote/z-icons/raw/master/svg/javascript.svg" alt="Git" title="Git" /></a>
-<img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Git" title="Git" /></a>
+<p align="left"><img height="40" src="https://github.com/jmnote/z-icons/raw/master/svg/javascript.svg" alt="JavaScript" title="JavaScript" /></a>
+<img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python" title="Python" /></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p> 
 
 
