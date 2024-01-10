@@ -19,12 +19,11 @@ I'm starting my studies to acquire technical and practical skills that will help
 
 ### Actively Learning :
 
-<p align="left"><img height="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></a>
-<img height="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" /></a>
+<img height="40" src="https://github.com/jmnote/z-icons/raw/master/svg/javascript.svg" alt="JavaScript" title="JavaScript" /></a>
 
 ### Plan to learn
 
-<p align="left"><img height="40" src="https://github.com/jmnote/z-icons/raw/master/svg/javascript.svg" alt="JavaScript" title="JavaScript" /></a>
+<p align="left">
 <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python" title="Python" /></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p> 
 
